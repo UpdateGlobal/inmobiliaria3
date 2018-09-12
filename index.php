@@ -11,8 +11,7 @@
     <meta name="DC.title" content="PLEXUS - EDIFICIO CORPORATIVO" />
     <meta name="DC.description" lang="es" content="Plexus es un edificio corporativo en el nuevo centro empresarial de lima con oficinas en venta en San Miguel amplios ambientes, vista panorámica." />
     <meta name="geo.region" content="PE-LIM" />
-    <meta name="robots" content="INDEX,FOLLOW" />
-    
+    <meta name="robots" content="INDEX,FOLLOW" />    
 
     <!-- Facebook and Twitter integration -->
   <!-- twitter card starts from here, if you don't need remove this section -->
